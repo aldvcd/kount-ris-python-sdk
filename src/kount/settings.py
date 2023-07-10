@@ -1,7 +1,7 @@
 from kount.version import VERSION
 
 
-CONFIGURATION_KEY = None
+CONFIGURATION_KEY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIxMDEwMTAiLCJhdWQiOiJLb3VudC4xIiwiaWF0IjoxNjg4OTE5MDIyLCJzY3AiOnsia2EiOm51bGwsImtjIjpudWxsLCJhcGkiOnRydWUsInJpcyI6dHJ1ZSwidGRzIjpudWxsfX0.iRDkC7496IoZd2kJEg7kSVc4JwN7CJ6ntcox2BsgyXg"
 SDK_AUTHOR =  "Kount SDK"
 SDK_MAINTAINER = "Kount SDK"
 MAINTAINER_EMAIL = "sdkadmin@kount.com"
